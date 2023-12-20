@@ -1,0 +1,11 @@
+.stripe-pic{
+    filter: brightness(20px);
+    cursor: pointer;
+    background-color: transparent;
+}
+.title{
+    margin-top: 3%;
+}
+.footer{
+    background-color: transparent;
+}

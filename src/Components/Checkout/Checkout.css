@@ -1,0 +1,48 @@
+.checkout{
+    display: flex;
+    margin: 50px auto;
+}
+.payout-pic{
+    margin-left: 30%;
+    margin-right: 1rem;
+}
+/* .form{
+    width: 40%;
+}
+.form .input input{
+    width: 100%;
+    outline: none;
+} */
+.btn{
+    margin: 200px auto;
+    outline: none;
+}
+@media screen and (max-width:480px) {
+    .checkout{
+        display: flex;
+        flex-direction: column;
+    }
+    .btn{
+        margin-left: 50%;
+        outline: none;
+    }
+    .payout{
+        height: 100%;
+        width: 100%;
+    }
+}
+@media screen and (max-width:780px) {
+    .checkout{
+        display: flex;
+        flex-direction: column;
+    }
+    .btn{
+        margin:50px auto;
+        margin-left: 50%;
+        outline: none;
+    }
+    .payout{
+        height: 100%;
+        width: 100%;
+    }
+}
