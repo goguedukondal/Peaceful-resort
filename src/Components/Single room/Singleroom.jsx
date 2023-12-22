@@ -10,7 +10,7 @@ function Singleroom() {
   const navigate = useNavigate();
   const { getRoom } = useContext(RoomContext);
   const [open, setOpen] = useState(false);
-  const [defaultPic, setDefaultpic] = useState();
+  const defaultPic = '';
   const { slug } = useParams();
   const room = getRoom(slug);
   if (!room) {
