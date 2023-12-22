@@ -1,5 +1,5 @@
 import React from 'react'
-import { useState } from 'react'
+// import { useState } from 'react'
 import Stripe from '../Stripe/Stripe'
 import './Checkout.css'
 function Checkout() {
