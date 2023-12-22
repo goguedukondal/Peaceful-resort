@@ -12,6 +12,7 @@ function Stripe() {
     <div className='stripe-pay'>
         <StripeCheckout
         name='Peaceful Resort'
+        onClick={()=>onClick}
         stripeKey="pk_test_51NM7wZSG90wxmop0JD4ItuBpVw3CDky9lBpaLxYNFE3ToOyuY7dS9O1GMJpveibC9c6APFkkEwCrnPqgfHlNkFsu00R1AufQPR"
         token={onToken} // Pass the callback function for handling the token
         amount={1000} // Amount in cents
