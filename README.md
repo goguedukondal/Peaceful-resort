@@ -7,15 +7,10 @@ available rooms ,view details of a partcular room,and filter rooms based on size
 
 In this application, users can seamlessly explore all rooms in the resort and book accommodations according to their specific requirements. The application provides the following features:
 
+. Room Exploration: Users can explore all available rooms in the resort.
 
-Peaceful Resort App
-Peaceful Resort App is a web application that enables users to explore available rooms, view details of a particular room, and filter rooms based on size, type, pet allowance, breakfast availability, and room price.
-
-Features
-In this application, users can seamlessly explore all rooms in the resort and book accommodations according to their specific requirements. The application provides the following features:
-
-Room Exploration: Users can explore all available rooms in the resort.
 Booking: Rooms can be booked based on individual preferences.
+
 Filtering: Users can filter rooms by size, type, pet allowance, breakfast availability, and room price.
 Navigation: Seamless navigation between different pages within the application.
 Services Overview: Users can view the services offered by the resort.
