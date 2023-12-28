@@ -7,7 +7,7 @@ available rooms ,view details of a partcular room,and filter rooms based on size
 
 In this application, users can seamlessly explore all rooms in the resort and book accommodations according to their specific requirements. The application provides the following features:
 
-. Room Exploration: Users can explore all available rooms in the resort.
+* Room Exploration: Users can explore all available rooms in the resort.
 
 Booking: Rooms can be booked based on individual preferences.
 
