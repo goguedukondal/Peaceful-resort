@@ -1,24 +1,32 @@
 
 ## Peaceful Resort App
-Peaceful Resort App is a web application that allows users to explore
-all rooms available,view details of a partcular room, filter rooms based on size, tyoe,pet allowance,breakfast availability, and room price.
+Peaceful Resort App is a web application that enables users to explore
+available rooms ,view details of a partcular room,and filter rooms based on size, type,pet allowance,breakfast availability, and room price.
 ## Features
 
 
-In this application, users can explore all rooms in the resort. They can book rooms according to their requirements. 
+In this application, users can seamlessly explore all rooms in the resort and book accommodations according to their specific requirements. The application provides the following features:
 
-The application allows users to filter rooms based on size, type, pet allowance, breakfast availability, and room price.
 
-Users can navigate between different pages and view the services provided by the resort.
+Peaceful Resort App
+Peaceful Resort App is a web application that enables users to explore available rooms, view details of a particular room, and filter rooms based on size, type, pet allowance, breakfast availability, and room price.
 
-Additionally, they can see the details of a particular room. After booking a room, users can proceed to make payments.
+Features
+In this application, users can seamlessly explore all rooms in the resort and book accommodations according to their specific requirements. The application provides the following features:
 
-For state management, I utilized the Context API, and for routing, I implemented `react-router-dom`.
+Room Exploration: Users can explore all available rooms in the resort.
+Booking: Rooms can be booked based on individual preferences.
+Filtering: Users can filter rooms by size, type, pet allowance, breakfast availability, and room price.
+Navigation: Seamless navigation between different pages within the application.
+Services Overview: Users can view the services offered by the resort.
+Room Details: Detailed information about each room is available for users to review.
+Payment Processing: After selecting and booking a room, users can proceed to make payments.
+For effective state management, the Context API is employed, and react-router-dom is utilized for routing.
+
 
 ## Tecnologies Used
-React.js : Used for building the user interface and managing components .
-
-Context API : Used for state management , ensuring a consistent and synchronized user experience.
+React.js: Utilized for building the user interface and managing components.
+Context API: Employed for state management, ensuring a consistent and synchronized user experience.
 
 ## Installation and Usage
 
