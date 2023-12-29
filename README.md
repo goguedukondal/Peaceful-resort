@@ -13,6 +13,7 @@ In this application, users can seamlessly explore all rooms in the resort and bo
 - **Room Details:** Detailed information about each room is available for users to review.
 - **Payment Processing:** After selecting and booking a room, users can proceed to make payments.
 For effective state management, the Context API is employed, and react-router-dom is utilized for routing.
+- **Card Details(Example):**- Visa Debit Card	4701322211111234      -**Expiry Date**-12/2026  -**CIV** -837
 
 
 ## Tecnologies Used
